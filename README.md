@@ -57,3 +57,17 @@
 ```
 <a href="https://devternity.com"><img src="https://devternity.com/shields/sponsor.svg" /></a>
 ```
+
+### Tools, frameworks
+
+[![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
+
+##### markdown code
+```
+[![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
+```
+
+#### html code
+```
+<a href="https://devternity.com"><img src="https://devternity.com/shields/recommends.svg" /></a>
+```
