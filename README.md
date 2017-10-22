@@ -1,10 +1,13 @@
 # Logos
 
-Below are just logo previews. Click to get high-resolution images:
-
-[![](http://res.cloudinary.com/eduardsi/image/upload/c_scale,h_100/v1495720048/modern_logo_5_y0fggj.png)](http://res.cloudinary.com/eduardsi/image/upload/v1495720048/modern_logo_5_y0fggj.png)
-
-
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_green_rect_black_bg.png" width="700">
 
 
 # Shields
