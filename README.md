@@ -1,9 +1,10 @@
 # Logos
 
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_square_black_bg.png " width="500">
+<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_square_whte_bg.png " width="500">
+
 <img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_rect_black_bg.png" width="700">
 <img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_rect_white_bg.png " width="700">
-<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_square_black_bg.png " width="700">
-<img src="https://github.com/devternity/graphics/raw/master/logos/devternity_2017_square_whte_bg.png " width="700">
 
 # Shields
 
