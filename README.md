@@ -17,11 +17,13 @@
 [![Conference attendee](https://devternity.com/shields/attending.svg)](https://devternity.com)
 
 ##### markdown code
+
 ```
 [![Conference attendee](https://devternity.com/shields/attending.svg)](https://devternity.com)
 ```
 
 #### html code
+
 ```
 <a href="https://devternity.com"><img src="https://devternity.com/shields/attending.svg" /></a>
 ```
@@ -31,11 +33,13 @@
 [![Conference attendee](https://devternity.com/shields/fellow.svg)](https://devternity.com)
 
 ##### markdown code
+
 ```
 [![Conference attendee](https://devternity.com/shields/fellow.svg)](https://devternity.com)
 ```
 
 #### html code
+
 ```
 <a href="https://devternity.com"><img src="https://devternity.com/shields/fellow.svg" /></a>
 ```
